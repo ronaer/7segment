@@ -1,4 +1,4 @@
-//a little modified by ronaer and thanks to tawi :)
+//a little modified by ronaer and thanks to 3tawi :)
 
 #include "DHT.h"
 #define DHT22_PIN A0     // what pin we're connected to
